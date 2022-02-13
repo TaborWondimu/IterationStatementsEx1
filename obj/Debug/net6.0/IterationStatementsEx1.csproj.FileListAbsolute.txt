@@ -1,0 +1,15 @@
+C:\Users\15103\repos\IterationStatementsEx1\bin\Debug\net6.0\IterationStatementsEx1.exe
+C:\Users\15103\repos\IterationStatementsEx1\bin\Debug\net6.0\IterationStatementsEx1.deps.json
+C:\Users\15103\repos\IterationStatementsEx1\bin\Debug\net6.0\IterationStatementsEx1.runtimeconfig.json
+C:\Users\15103\repos\IterationStatementsEx1\bin\Debug\net6.0\IterationStatementsEx1.dll
+C:\Users\15103\repos\IterationStatementsEx1\bin\Debug\net6.0\ref\IterationStatementsEx1.dll
+C:\Users\15103\repos\IterationStatementsEx1\bin\Debug\net6.0\IterationStatementsEx1.pdb
+C:\Users\15103\repos\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.csproj.AssemblyReference.cache
+C:\Users\15103\repos\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15103\repos\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.AssemblyInfoInputs.cache
+C:\Users\15103\repos\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.AssemblyInfo.cs
+C:\Users\15103\repos\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.csproj.CoreCompileInputs.cache
+C:\Users\15103\repos\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.dll
+C:\Users\15103\repos\IterationStatementsEx1\obj\Debug\net6.0\ref\IterationStatementsEx1.dll
+C:\Users\15103\repos\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.pdb
+C:\Users\15103\repos\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.genruntimeconfig.cache
